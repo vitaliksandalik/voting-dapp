@@ -6,7 +6,7 @@ I've revisited my 4-month-old Voting DApp and spent the entire night refactoring
 
 Quick overview of the Voting DApp in action:
 
-https://github.com/vitaliksandalik/voting-dapp/assets/102806612/0b629751-1e08-4696-b653-e46712f94f3a
+https://github.com/vitaliksandalik/voting-dapp/assets/102806612/cf9f80e0-f8d6-4227-9583-2a117636e23f
 
 ## Project Structure
 
